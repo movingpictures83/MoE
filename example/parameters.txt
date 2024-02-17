@@ -1,0 +1,6 @@
+inputsize	1000
+numclasses	20
+numexperts	10
+hiddensize	64
+batchsize	5
+k	4

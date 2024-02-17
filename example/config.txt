@@ -1,0 +1,2 @@
+Prefix plugins/MoE/example/
+Plugin MoE inputfile parameters.txt outputfile none
